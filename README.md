@@ -44,12 +44,11 @@ Build it. Program it. Explore robotics.​
      <img src="img/1.png" width="45%">
      <img src="img/2.png" width="45%">
 </div>
-
-
+<br>
+<br>
 <div align="center">
-     <img src="img/pedro_maker.png" width="20%">
-     <img src="img/pedro_stem_journey.png" width="100%">
      <img src="img/pedro_passport.png" width="100%">
+     <img src="img/pedro_badges.png" width="100%">
 </div>
 
 <br>
