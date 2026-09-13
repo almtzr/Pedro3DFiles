@@ -17,12 +17,7 @@
 
 <br>
 
-## Join the Pedro Community on Discord
-<div align="left">
-    <a href="https://discord.com/invite/TxkWNPU3ES">
-       <img src="img/discord_logo.png" width="10%">
-    </a>
-</div>
+## Join the Pedro Community on [Discord](https://discord.com/invite/TxkWNPU3ES)
 
 ## 🚀 Pedro Project Repositories: 
 Each Pedro repository serves a specific role in the ecosystem:
@@ -34,22 +29,16 @@ Each Pedro repository serves a specific role in the ecosystem:
 
 # 📂 `Pedro Robot`
 
-Pedro is a fully 3D-printed, open-source educational robot designed to make robotics accessible to everyone. Build, program, experiment, and discover robotics through engaging, hands-on STEM activities. 
-
-With its modular design, tool-free assembly, and multiple control modes, Pedro provides a complete platform for exploring mechanics, electronics, programming, and robotic communication. It is designed for students, teachers, makers, and anyone curious about building and understanding robots.
-
-Build it. Program it. Explore robotics.​
-
-<div align="center">
-     <img src="img/1.png" width="45%">
-     <img src="img/2.png" width="45%">
-</div>
-<br>
-<br>
-<div align="center">
-     <img src="img/pedro_passport.png" width="100%">
-     <img src="img/pedro_badges.png" width="100%">
-</div>
+|                          |                          |
+:-------------------------:|:-------------------------:
+![](img/print_arm.gif)  |  ![](img/pedro_gear.gif)
+| ARM.stl  |  GEAR.stl
+| Infill 40%  |  Infill 40%
+| Support Touching Buildpate  |  No Support
+![](img/print_servo.gif)  |  ![](img/print_base.gif)
+| SERVO.stl  |  BASE.stl
+| Infill 40%  |  Infill 40%
+| Support Everywhere  |  Support Touching Buildpate
 
 <br>
 
