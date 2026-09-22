@@ -29,6 +29,11 @@ Each Pedro repository serves a specific role in the ecosystem:
 
 # 📂 `Pedro Robot`
 
+<div align="left">
+    <img src="img/pedro_kit.png" width="100%">
+</div>
+<br>
+
 |                          |                          |
 :-------------------------:|:-------------------------:
 ![](img/print_arm.gif)  |  ![](img/pedro_gear.gif)
@@ -41,6 +46,11 @@ Each Pedro repository serves a specific role in the ecosystem:
 | Support Everywhere  |  Support Touching Buildpate
 
 <br>
+<div align="left">
+    <img src="img/repeat_mode.gif" width="100%">
+</div>
+<br>
+
 
 ## 4. Contributing
 We welcome contributions from the community! Here's how you can help:
